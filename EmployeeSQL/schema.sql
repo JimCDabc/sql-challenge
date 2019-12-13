@@ -1,0 +1,1 @@
+-- Schema SQL File for DABC 9 - SCQL Challenge 
