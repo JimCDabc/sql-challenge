@@ -10,7 +10,7 @@ Note:  ERD png file generated from QuikckDB (https://app.quickdatabasediagrams.c
 
 ## Bonus Analysis
 * **~/EmployeeSQL/bonus.ipynb**  -- Bonus analys jupyter notebook
-* **~/EmployeeSQL/MeanSalaries_x_Title.png**	-- MeanSalary per Title Bar chart png
+* **~/EmployeeSQL/MeanSalaries_x_Title.png**	-- Mean Salary per Title Bar chart png
 * **~/EmployeeSQL/SalaryHistogram.png**  -- Employee Salary Histogram png
 
 
