@@ -2,7 +2,7 @@
 DABC 9 SQL Homework
 
 ## EmployeeSQL base homework
-* **~/EmployeeSQL/EmployeeSQL_ERD** -- Entity Relationship Diagram for EmployeeSQL_db
+* **~/EmployeeSQL/EmployeeSQL_ERD.png** -- Entity Relationship Diagram for EmployeeSQL_db
 * **~/EmployeeSQL/schema.sql**      -- Schema definition SQL for EmployeeSQL_db
 * **~/EmployeeSQL/query.sql**       --  query SQL to analyze EmployeeDB and answer questions
 
